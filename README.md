@@ -1,6 +1,15 @@
-# Sorting Algorithms
-This is meant for exploring any sorting algorithms using `C++`.
+<h1 align="center">Sorting Algorithms</h1>
+<p align="center">Greetings hackers of <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>! :computer: :tada:</p>
+<div align="center">
+    <a href="https://github.com/claesgill/sorting_algorithms/commits">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/claesgill/sorting_algorithms?label=updated">
+    </a>
+    <a href="https://github.com/claesgill/sorting_algorithms/commits">
+        <img alt="Updated" src="https://img.shields.io/github/contributors/claesgill/sorting_algorithms" />
+    </a>
+</div>
 
+# Table of content
 1. [Run](#run)
 2. [Contribute](#contribute)
     1. [Getting started](#getting-started)
